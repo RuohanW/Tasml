@@ -2,8 +2,7 @@
 
 ## Overview
 This repository contains the implementation of the meta-learning model
-described in the paper "[Structured Prediction for Conditional Meta-Learning](https://arxiv.org/abs/2002.08799)" by Wang et. al. It was posted
-will be presented at NeurIPS 2020.
+described in the paper "[Structured Prediction for Conditional Meta-Learning](https://arxiv.org/abs/2002.08799)". It will be presented at NeurIPS 2020.
 
 The paper learns a task-conditional meta-parameters using "[structured prediction](https://en.wikipedia.org/wiki/Structured_prediction)", which considers the meta-parameters as structured output.
 
